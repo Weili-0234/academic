@@ -3,7 +3,7 @@
 title: Weili Xu
 
 # Name pronunciation (optional)
-name_pronunciation: 徐纬立
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Weili
@@ -35,7 +35,6 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/william02319778/
-
   - icon: brands/instagram
     url: 
   - icon: brands/github
